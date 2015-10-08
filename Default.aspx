@@ -25,6 +25,11 @@
             Login with your username and password for accessing the contents of the website.
            (<a id="loginLink" runat="server" href="~/Login.aspx">Login</a>)
         </li>
+        <li class="three">
+            <h5>Website Access</h5>
+            Based on your roles you will be prvoided with appropriate prvileges for accessing the contents of website respectively.
+         (<a id="A1" runat="server" href="~/About.aspx">Learn More..</a>)
+        </li>
       
     </ol>
 </asp:Content>
